@@ -1,6 +1,6 @@
 # Namnsdag Dataset
 
-Namnsdag dataset sorterad efter datum, formaterad som CSV, JSON och XML.
+Namnsdag dataset sorterad efter datum, formaterad som JSON.
 
 Datan är strukturerad för att vara enkel att importera och slå upp, oavsett om du bygger en mobilapp, webbplats eller ett API, kör schemalagda automationer eller gör analys i till exempel Python eller Excel. Du kan snabbt hitta namnsdagar per datum och använda listan för filtrering, statistik och visualisering.
 
@@ -9,9 +9,7 @@ Från och med år 2022 innehåller namnlängden 627 namn: 310 namn som oftast b�
 Datasetet är tänkt att vara lätt att använda, lätt att versionera och enkelt att integrera i både små och stora projekt.
 
 ## Filformat
-+ CSV
 + JSON
-+ XML
 
 ## Hittat fel?
 
