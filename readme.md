@@ -1,4 +1,4 @@
-# Namnsdag Dataset
+# Namnsdag
 
 Namnsdag dataset sorterad efter datum, formaterad som JSON.
 
